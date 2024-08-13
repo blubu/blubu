@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vibhu</h1>
 <h3 align="center">An aspiring machine learning engineer.</h3>
+[![An image of @blubu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/blubu)](https://holopin.io/@blubu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
